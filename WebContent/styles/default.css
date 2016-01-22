@@ -1,0 +1,43 @@
+header img {
+	float: right;
+}
+
+label {
+	display: block;
+	margin-top: 5px;
+}
+
+label input {
+	display: block;
+}
+
+
+
+table tr:nth-child(odd) {
+	background-color: #F2F2E4;
+}
+
+table tr:nth-child(even) {
+	background-color: #E6E6C8;
+}
+
+dl {
+	margin: 10px 0;
+}
+
+dd {
+	margin: 0;
+}
+
+dt {
+	font-weight: bold;
+	margin-bottom: 1em;
+}
+
+.usermessage{
+	font-weight: bold;
+}
+
+.number{
+	text-align: right;
+}
